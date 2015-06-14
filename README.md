@@ -1,2 +1,4 @@
-# GCJ2015-round1C
-Google Code Jam 2015 Round 1C
+# JAG-icpc-domestic-practice-2015
+2015年 JAG-ICPC 模擬国内予選 2015
+
+20位だったようです。A・B・Dを解きました。
